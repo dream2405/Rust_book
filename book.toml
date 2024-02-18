@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Rust"
+
+[build]
+build-dir = "doc"
+create-missing = false
