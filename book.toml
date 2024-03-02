@@ -8,3 +8,8 @@ title = "Rust로 배우는 범주론"
 [build]
 build-dir = "docs"
 create-missing = false
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://github.com/dream2405/rust_book"
+git-repository-icon = "fa-github"
