@@ -1,6 +1,6 @@
 # Summary
 
-[서론](./chapter_1.md)
+[서론](./introduction.md)
 
 # 1장
 
