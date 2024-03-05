@@ -3,7 +3,7 @@ authors = ["dream2405"]
 language = "ko"
 multilingual = true
 src = "src"
-title = "Rust로 배우는 범주론"
+title = "프로그래머를 위한 범주론"
 
 [build]
 build-dir = "docs"
