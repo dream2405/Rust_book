@@ -1,12 +1,12 @@
 # Summary
 
-[서론](./introduction.md)
+[서론](./intro/introduction.md)
 
 # 1부
 
-- [범주: 합성의 본질](./part1/1.md)
-- [타입과 함수](./part1/2.md)
-- [큰 범주와 작은 범주]()
+- [범주: 합성의 본질](./part1/ch01/1.md)
+- [타입과 함수](./part1/ch02/2.md)
+- [큰 범주와 작은 범주](./part1/ch03/3.md)
 - [Kleisli 범주]()
 - [곱과 합성곱]()
 - [간단한 ADT]()
